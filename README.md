@@ -15,5 +15,5 @@ Throughout this project, we used GitHub, Google Colab, and Python. The packages 
 
 ## 3. Reproducing the Results
 
-## Datasets 
-Brain tumor detection: <https://figshare.com/articles/dataset/brain_tumor_dataset/1512427>
+## References  
+[1] J. Cheng, “Brain Tumor Dataset,” figshare, 2017. [Online]. Available: <https://figshare.com/articles/dataset/brain_tumor_dataset/1512427>

@@ -12,6 +12,7 @@ Throughout this project, we used GitHub, Google Colab, and Python. The packages 
 
 ## 2. Directory 
 
+```
 ds4002_project3/
 ├── DATA/
 │   └── Obtaining the Data.md
@@ -27,6 +28,8 @@ ds4002_project3/
 │   └── 2_analysis_rc.ipynb
 ├── LICENSE.md
 └── README.md
+```
+
 
 
 ## 3. Reproducing the Results

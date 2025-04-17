@@ -11,7 +11,21 @@ Are glioma tumors harder to correctly classify than meningioma and pituitary tum
 Throughout this project, we used GitHub, Google Colab, and Python. The packages we used were h5py, numpy, os, cv2, and matplotlib. All of these packages would have to be downloaded in order to run the notebooks. Both Windows and Mac were used to complete this project.
 
 ## 2. Directory 
-
+ds4002_project3
+|---- DATA/ 
+|------- Obtaining the Data.md 
+|---- OUTPUT/ 
+|------- Frequency of Tumor Types.png
+|------- Glioma.png
+|------- Meningioma.png
+|------- Pituitary.png
+|---- SCRIPTS/ 
+|------- .ipnyb_checkpoints/
+|---------- 2_analysis_rc-checkpoint.ipynb
+|------- 1_preprocessing_EDA.ipynb
+|------- 2_analysis_rc.ipynb
+|---- LICENSE.md
+|---- README.md
 
 ## 3. Reproducing the Results
 

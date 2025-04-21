@@ -1,4 +1,4 @@
-# Classifying Cancerous Brain Tumors - Results 
+# Classifying Cancerous Brain Tumors 
 This file contains relevant output for our final convolutional neural network (CNN) model which aims to classify brain tumor type (meningioma, glioma, or pituitary) based on image data.
 
 ## Model Accuracy over Epochs 
